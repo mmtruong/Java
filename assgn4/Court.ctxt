@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Court()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Court\ that\ must\ do\ the\ following\ things\:\n<ul><li>\ instantiate\ the\ window</li>\n<li>instantiate\ two\ cars\ of\ different\ colors\ -\ only\ one\ of\ them\ should\ be\ the\ selected\ car</li>\n<li>initialize\ the\ text\ on\ the\ 3\ buttons</li>\n<li>repaint\ the\ window</li></ul>\n\n
+comment1.params=movingCar
+comment1.target=Car\ getOtherCar(Car)
+comment1.text=\ngets\ the\ other\ Car\ object\nused\ for\ collision\ detection\n@param\ movingCar\ Car\ that\ wants\ to\ move\n@return\ the\ other\ Car\ we\ do\ not\ want\ to\ hit\!\n\n
+comment2.target=void\ leftAction()
+comment2.text=\nevent\ handler\ method\ for\ the\ left\ button\nit\ must\ deselect\ the\ current\ car\ and\nselect\ the\ next\ car\n\n
+comment3.target=void\ midAction()
+comment3.text=event\ handler\ method\ for\ the\ middle\ button\nit\ must\ advance\ the\ direction\ of\ the\ selected\ car\n\n
+comment4.target=void\ rightAction()
+comment4.text=event\ handler\ method\ for\ the\ right\ button\nit\ must\ cause\ the\ selected\ car\ to\ move\n\n
+numComments=5

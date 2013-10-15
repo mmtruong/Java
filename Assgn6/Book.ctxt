@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=title\ quantity\ price
+comment0.target=Book(String,\ int,\ double)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Book\n@param\ title\ of\ the\ newly\ created\ Book\n@param\ quantity\ of\ this\ newly\ created\ Book\n@param\ price\ of\ this\ newly\ created\ Book\n\n
+comment1.target=String\ getTitle()
+comment1.text=get\ book\ title\n@return\ String\ title\ of\ this\ book\n\n
+comment2.target=int\ getQuantity()
+comment2.text=get\ quantity\n@return\ int\ quantity\ of\ this\ book\ on\ hand\n\n
+comment3.target=double\ getPrice()
+comment3.text=get\ book\ price\n@return\ double\ price\ of\ this\ book\n\n
+comment4.target=String\ toString()
+comment4.text=toString\n@return\ readable\ one-line\ String\ representation\ of\ a\ book\n\n
+numComments=5

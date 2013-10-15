@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment0.text=\nConstructor\ for\ objects\ of\ class\ StringManipulator\n\n
+comment1.params=s
+comment1.target=int\ countVowels(String)
+comment2.params=ch
+comment2.target=boolean\ isVowel(char)
+comment3.params=src
+comment3.target=String\ reverseString(String)
+comment4.params=src\ a\ b
+comment4.target=String\ replaceString(String,\ String,\ String)
+numComments=5

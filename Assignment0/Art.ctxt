@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Art()
+comment0.text=\nA\ constructor\ that\ creates\ a\ blank\ AWindow\ to\ draw\ in\n\n
+comment1.target=void\ displayArt()
+comment1.text=\nA\ method\ to\ create\ and\ display\ the\ abstract\ art\n\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=name\ ID\ initialBalance
+comment0.target=BankAccount(String,\ String,\ double)
+comment0.text=\nConstruct\ a\ BankAccount\ object.\n@param\ name\ owner\ of\ the\ account\n@param\ ID\ account\ ID\n@param\ initialBalance\ starting\ balance,\ should\ be\ >\=\ 0\n\n
+comment1.target=String\ getOwner()
+comment1.text=\nGet\ the\ owner\ of\ this\ account.\n@return\ the\ owner\ of\ this\ account\n\n
+comment2.target=String\ getID()
+comment2.text=\nGet\ the\ account\ ID\ of\ this\ account.\n@return\ the\ account\ ID\ of\ this\ account\n\n
+comment3.target=double\ getBalance()
+comment3.text=\nGet\ the\ balance\ of\ this\ account.\n@return\ the\ balance\ of\ this\ account\n\n
+comment4.params=amount
+comment4.target=void\ deposit(double)
+comment4.text=\nDeposit\ money\ into\ this\ account.\n@param\ amount\ amount\ to\ be\ deposited;\ should\ be\ >\=0\n\n
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment5.text=\nWithdraw\ money\ from\ the\ account.\n@param\ amount\ amount\ to\ be\ withdrawn;\ should\ be\ <\=\ this.getBalance(\ )\n\n
+comment6.target=String\ toString()
+comment6.text=\nProduce\ a\ String\ representation\ of\ this\ BankAccount.\ \n@return\ a\ String\ value\ representing\ this\ BankAccount\n\n
+numComments=7

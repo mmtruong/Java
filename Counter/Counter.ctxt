@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Counter()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Counter\n
+comment1.params=newCount
+comment1.target=Counter(int)
+comment1.text=\nConstructor\ for\ objects\ of\ class\ Counter\n@param\ newCount\ is\ the\ initial\ value\ of\ the\ counter\n
+comment2.target=int\ getCount()
+comment2.text=\nthis\ method\ returns\ the\ actual\ count\n@return\ the\ count\n
+comment3.target=void\ increment()
+comment3.text=\nincrement\ method\ adds\ 1\ to\ the\ count\n\n
+comment4.target=void\ reset()
+comment4.text=\nreset\ the\ counter\ back\ to\ zero\n
+comment5.params=newCount
+comment5.target=void\ setCount(int)
+comment5.text=\nsetCount\ sets\ the\ counter\ to\ any\ value\ in\ parameter\n@param\ newCount\ is\ the\ value\ to\ set\ Counter\ to\n
+numComments=6

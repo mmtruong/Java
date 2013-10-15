@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=LineSegment(Point,\ Point)
+comment0.text=\nCreate\ a\ LineSegment\ defined\ by\ these\ 2\ endpoints\n@param\ p1\ the\ first\ point\n@param\ p2\ the\ second\ point\n\n
+comment1.params=p
+comment1.target=void\ setFirstPoint(Point)
+comment1.text=\nreplace\ the\ current\ first\ point\ with\ the\ parameter\n@param\ p\ the\ new\ first\ point\n\n
+comment2.params=p
+comment2.target=void\ setSecondPoint(Point)
+comment2.text=\nreplace\ the\ current\ second\ point\ with\ the\ parameter\n@param\ p\ the\ new\ second\ point\n\n
+comment3.target=Point\ getFirstPoint()
+comment3.text=\nRetrieve\ the\ first\ point\ of\ this\ LineSegment\n@return\ the\ first\ point\ \n\n
+comment4.target=Point\ getSecondPoint()
+comment4.text=\nRetrieve\ the\ second\ point\ of\ this\ LineSegment\n@return\ the\ second\ point\ \n\n
+comment5.target=double\ slope()
+comment5.text=\nCalculate\ the\ slope\ of\ this\ LineSegment.\ \ Will\ throw\ an\ ArithmeticException\nif\ the\ slope\ is\ undefined\ (a\ vertical\ LineSegment)\n@return\ the\ slope\n\n
+comment6.params=p
+comment6.target=double\ distance(Point)
+comment6.text=\nCalculates\ the\ distance\ between\ the\ given\ Point\ and\ the\ midpoint\ of\ this\nLineSegment\n@param\ p\ the\ point\ to\ calculate\ the\ distance\ to\n@return\ the\ distance\n\n
+comment7.target=Point\ midpoint()
+comment7.text=\nFinds\ the\ midpoint\ of\ this\ LineSegment\n@return\ the\ midpoint\ Point\n\n
+comment8.params=other
+comment8.target=LineSegment\ connectMids(LineSegment)
+comment8.text=\nCreates\ a\ new\ LineSegment\ that\ has\ as\ its\ endpoints\ the\ midpoint\ of\ this\nLineSegment\ and\ the\ other\ LineSegment\n@param\ other\ the\ 2nd\ LineSegment\n@return\ a\ new\ LineSegment\n\n
+numComments=9

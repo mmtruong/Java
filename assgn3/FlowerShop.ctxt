@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FlowerShop()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Flowershop\ for\ initial\ stock\ of\ 50\ vases,\ 300\ roses,\ 300\ carnations,\ 500\ daisies,\ 100\ fertilizer\ packet(1\ free\ fertilizer\ packet\ for\ every\ 12\ flowers\ sold),\ and\ 0\ total\ sales\ amount.\n\n
+comment1.params=request
+comment1.target=double\ processOrder(Order)
+comment1.text=\nProcesses\ request\ by\ computing\ cost\ and\ updatng\ inventory\n@param\ request\ is\ the\ order\ supplied\ that\ is\ to\ be\ processed\n@return\ total\ cost\ of\ a\ processed\ request\n\n
+comment2.target=double\ getTotalSales()
+comment2.text=\nRetrieves\ the\ total\ amount\ of\ all\ sales\ combined\n@return\ total\ sales\n\n
+comment3.target=void\ printInventory()
+comment3.text=\nPrints\ the\ remaining\ inventory\ in\ stock\ and\ shows\ the\ combined\ total\ sales\n\n
+numComments=4

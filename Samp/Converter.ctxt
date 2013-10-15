@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=n\ base
+comment0.target=String\ toString(int,\ int)
+comment1.params=n
+comment1.target=String\ toBinaryString(int)
+comment2.params=n
+comment2.target=String\ toHexString(int)
+comment3.params=s
+comment3.target=void\ inputError(String)
+comment4.params=s\ b
+comment4.target=int\ fromString(String,\ int)
+comment5.params=s
+comment5.target=int\ fromBinaryString(String)
+comment6.params=s
+comment6.target=int\ fromHexString(String)
+comment7.target=void\ main()
+numComments=8

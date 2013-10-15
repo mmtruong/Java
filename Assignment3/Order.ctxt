@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Order()
+comment0.text=\nConstructor\ for\ a\ standard\ initalized\ order\ count\ of\ a\ Spring\ Special\ (1\ vase,\ 3\ rose,\ 6\ carnation,\ and\ 4\ daisy)\n\n
+comment1.params=vaseCount\ roseCount\ carnationCount\ daisyCount
+comment1.target=Order(int,\ int,\ int,\ int)
+comment1.text=\nConstructor\ that\ gives\ a\ specified\ request\ for\ each\ individual\ flower\ from\ customer\n@param\ vaseCount\ is\ amount\ of\ vases\ a\ customer\ wants\n@param\ roseCount\ is\ amount\ of\ roses\ a\ customer\ wants\n@param\ carnationCount\ is\ amount\ of\ carnation\ a\ customer\ wants\n@param\ daisyCount\ is\ amount\ of\ daisy\ a\ customer\ wants\n\n
+comment2.params=specialCount\ dozenCount
+comment2.target=Order(int,\ int)
+comment2.text=\nConstructor\ How\ many\ Spring\ Special\ and\ dozen\ Roses?\n@param\ specialCount\ consists\ of\ 1\ vase,\ 3\ rose,\ 6\ carnation,\ and\ 4\ daisy\n@param\ dozenCount\ consists\ of\ a\ 12\ roses\n\n
+comment3.target=int\ getRoseCount()
+comment3.text=\nRetreives\ order\ amount\ for\ roses\n@return\ rose\ count\n\n
+comment4.target=int\ getCarnationCount()
+comment4.text=\nRetreives\ order\ amount\ for\ carnation\n@return\ carnation\ count\n\n
+comment5.target=int\ getDaisyCount()
+comment5.text=\nRetreives\ order\ amount\ for\ daisy\n@return\ daisy\ count\n\n
+comment6.target=int\ getVaseCount()
+comment6.text=\nRetreives\ order\ amount\ for\ vase\n@return\ vase\ count\n\n
+numComments=7

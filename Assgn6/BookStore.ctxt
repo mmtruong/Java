@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BookStore()
+comment1.target=void\ getBookRecord()
+comment1.text=\nget\ one\ Book\ record\ from\ user\ and\ enter\ it\ into\ array\nmust\ manage\ an\ InputMismatchException\ if\ the\ user\ doesn't\ enter\ \nmatching\ data\ type.\n\n
+comment2.target=void\ showAllBooks()
+comment2.text=\nshowAllBooks\ displays\ the\ books\ in\ the\ order\ in\ which\ they\ were\ entered\n\n
+numComments=3

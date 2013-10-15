@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BankBase()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ BankBase\ncontains\ test\ code\ to\ make\ sure\ that\ readOneAccount()\nmethod\ works\ correctly\nalso\ traps\ exceptions\ if\ invalid\ file\ name\ is\ entered\nor\ there\ is\ a\ format\ error\ in\ the\ data\n
+comment1.params=in
+comment1.target=BankAccount\ readOneAccount(Scanner)
+comment1.text=\nreadOneAccount\nmust\ be\ called\ from\ code\ using\ try-catch\ because\ there\ can\ be\ninput\ formatting\ errors\ during\ the\ conversions.\n@param\ in\ is\ the\ Scanner\ attached\ to\ the\ data\ file\n@return\ a\ reference\ to\ the\ newly-created\ BankAccount\ object\n
+comment2.params=args
+comment2.target=void\ main(String[])
+comment2.text=\nstarting\ point\ for\ this\ class\ncreates\ object\ of\ type\ BankBase\ \n
+numComments=3

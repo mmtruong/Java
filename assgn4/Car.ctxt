@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=upperLeftX\ upperLeftY\ newColor\ newSelect\ newWin\ c
+comment0.target=Car(int,\ int,\ Color,\ boolean,\ A3ButtonWindow,\ Court)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Car\n<ul><li>initializes\ all\ instance\ variables\ of\ Car\ class</p>\n<li>instantiates\ the\ RoundRectangle\ graphics\ object</p>\n<li>initializes\ the\ color\ of\ the\ graphics\ object</p>\n<li>sets\ graphics\ object\ as\ Filled\ if\ this\ is\ the\ selected\ Car</p>\n<li>places\ the\ graphics\ object\ in\ the\ window\ container</p></ul>\n@param\ upperLeftX\ the\ x\ coordinate\ of\ the\ upper\ left\ corner\ of\ this\ Car\n@param\ upperLeftY\ the\ y\ coordinate\ of\ the\ upper\ left\ corner\ of\ this\ Car\n@param\ newColor\ the\ desired\ color\ for\ this\ Car\n@param\ newSelect\ true\ if\ this\ Car\ is\ the\ selected\ Car,\ false\ otherwise\n@param\ newWin\ a\ reference\ variable\ to\ the\ A3ButtonWindow\n\n
+comment1.target=boolean\ isSelected()
+comment1.text=@return\ true\ if\ this\ is\ the\ selected\ Car,\ false\ otherwise\ \n
+comment2.target=void\ select()
+comment2.text=sets\ this\ Car\ as\ the\ selected\ Car<p>\nalso\ sets\ fill\ and\ updates\ the\ mid\ button\ text<p>\nrepaints\ the\ window\n\n
+comment3.target=void\ deSelect()
+comment3.text=sets\ this\ Car\ as\ NOT\ selected<p>\nalso\ sets\ outline\ display\ and\ repaints\ the\ window\n\n
+comment4.target=void\ moveCar()
+comment4.text=moves\ the\ selected\ Car\ in\ the\ direction\nthat\ is\ set\ within\ its\ direction\ variable\n\n
+comment5.target=void\ advanceDirection()
+comment5.text=advances\ the\ stored\ direction\ of\ this\ Car\nin\ the\ following\ order\:\ right,\ up,\ left,\ down<p>\nmust\ go\ from\ down\ direction\ to\ right\ direction<p>\nalso\ changes\ displayed\ text\ in\ mid\ button\ and<p>\nrepaints\ the\ window\n\n
+numComments=6

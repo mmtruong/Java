@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ q\ p
+comment0.target=Purchase(String,\ int,\ double)
+comment1.target=String\ getName()
+comment2.target=int\ getQuantity()
+comment3.target=double\ getPrice()
+comment4.target=String\ toString()
+comment5.params=c
+comment5.target=double\ getPurchaseCost(Purchase)
+numComments=6

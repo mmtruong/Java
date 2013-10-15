@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=baseNumber\ base
+comment0.target=String\ convert(int,\ int)
+comment0.text=\nConverts\ bases\ by\ recursivity\n@param\ baseNumber\ the\ base\ 10\ inputted\ number\ from\ the\ scanner\n@param\ base\ the\ new\ base\ that\ baseNumber\ will\ be\ converted\ to\n\n
+numComments=1

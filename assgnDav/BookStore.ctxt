@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BookStore()
+comment0.text=\nInstantiates\ a\ new\ array\n\n
+comment1.target=void\ getBookRecord()
+comment1.text=\nUser\ inputs\ a\ new\ book\ into\ the\ array\n\n
+comment2.target=void\ deleteBook()
+comment2.text=\nFinds\ a\ matching\ title\ and\ deletes\ the\ book\n\n
+comment3.target=void\ showAllBooks()
+comment3.text=\nDisplays\ the\ books\ in\ the\ order\ in\ which\ they\ were\ entered\n\n
+comment4.target=void\ statusReport()
+comment4.text=\nDisplays\ the\ total\ price\ and\ book\ count\ of\ all\ book\ entries\n\n
+comment5.target=void\ limit()
+comment5.text=\nAsk\ for\ a\ quantity\ and\ displays\ all\ books\ with\ that\ quantity\ or\ below\n\n
+comment6.target=void\ manage()
+comment6.text=\nOperates\ the\ entire\ program\ via\ one\ method.\n\n
+numComments=7

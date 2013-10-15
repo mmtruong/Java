@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n\ q\ p\ d
+comment0.target=DiscountPurchase(String,\ int,\ double,\ double)
+comment1.target=double\ getDiscount()
+comment2.params=c
+comment2.target=double\ getPurchaseCost(DiscountPurchase)
+numComments=3
